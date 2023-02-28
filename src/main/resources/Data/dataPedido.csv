@@ -1,0 +1,8 @@
+CodPedido;CedCliente;DireccionEntrega;Descripcion;ValorPedido;FechaPedido;CedRepartidor;CostoDelivery
+12345;7830429812;EL cambio;Hamburguesa;12.0;2004-12-31;0893423419;2.0
+454665;2399409823;El cambio;Hamburguesa;10.0;2020-10-10;0986789345;5.0
+234134;2399409823;El cambio;Hamburguesa;10.0;2020-10-10;0986789345;5.0
+4524;2399409823;El cambio;Hamburguesa;10.0;2020-10-10;0986789345;5.0
+123454;7830429812;EL cambio;Hamburguesa;12.0;2004-12-31;0893423419;2.0
+1234545;7830429812;EL cambio;Hamburguesa;12.0;2004-12-31;0893423419;2.0
+123467;7830429812;EL cambio;Hamburguesa;12.0;2004-12-31;0893423419;2.0
